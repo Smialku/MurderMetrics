@@ -32,7 +32,7 @@ matplotlib
 How to Run:
 
 Clone the repository:
-git clone https://github.com/yourusername/MurderRateDashboard.git
+git clone https://github.com/Smialku/MurderMetrics.git
 
 Install dependencies:
 pip install -r requirements.txt
