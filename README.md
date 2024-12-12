@@ -1,4 +1,4 @@
-Murder Rate Dashboard
+MurderMetrics
 
 Project Description:
 
